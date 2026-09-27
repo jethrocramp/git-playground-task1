@@ -17,4 +17,4 @@ if (fs.readFileSync(file, "utf8").trim().length === 0) {
   process.exit(1);
 }
 
-console.log("PASS  notes.md is present and has content.");
+console.log("PASS  notes.md is present and has content. (NOTE TO SELF IS THIS REALLY A PASS?)");
